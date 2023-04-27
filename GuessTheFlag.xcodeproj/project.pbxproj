@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C78351C29FA863A00950B5A /* EndGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C78351B29FA863A00950B5A /* EndGame.swift */; };
 		2CCAC95127C78D2600B43EB5 /* GuessTheFlagApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCAC95027C78D2600B43EB5 /* GuessTheFlagApp.swift */; };
 		2CCAC95327C78D2600B43EB5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCAC95227C78D2600B43EB5 /* ContentView.swift */; };
 		2CCAC95527C78D2700B43EB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CCAC95427C78D2700B43EB5 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C78351B29FA863A00950B5A /* EndGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EndGame.swift; sourceTree = "<group>"; };
 		2CCAC94D27C78D2600B43EB5 /* GuessTheFlag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessTheFlag.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CCAC95027C78D2600B43EB5 /* GuessTheFlagApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessTheFlagApp.swift; sourceTree = "<group>"; };
 		2CCAC95227C78D2600B43EB5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				2CCAC95027C78D2600B43EB5 /* GuessTheFlagApp.swift */,
 				2CCAC95227C78D2600B43EB5 /* ContentView.swift */,
+				2C78351B29FA863A00950B5A /* EndGame.swift */,
 				2CCAC95427C78D2700B43EB5 /* Assets.xcassets */,
 				2CCAC95627C78D2700B43EB5 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C78351C29FA863A00950B5A /* EndGame.swift in Sources */,
 				2CCAC95327C78D2600B43EB5 /* ContentView.swift in Sources */,
 				2CCAC95127C78D2600B43EB5 /* GuessTheFlagApp.swift in Sources */,
 			);
